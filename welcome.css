@@ -1,0 +1,89 @@
+.chef{
+     height: 90px;
+     width: 70px;
+}
+.flex{
+    color: aliceblue;
+    text-shadow: 3px 3px 6px yellow;
+    position: absolute;
+    top: 15%;
+    left: 38%;
+}
+.flex:hover{
+    background-image: url("https://img.freepik.com/premium-photo/cute-animal-chef-kitchen_893571-16288.jpg");
+    height: 260px;
+    width: 500px;
+    position: absolute;
+    top: 0;
+    color: aliceblue;
+    text-shadow: 3px 3px 7px rgb(62, 132, 180);
+}
+.brain{
+    display: flex;
+    justify-content: center;
+}
+.bg{
+    background-image: url("https://www.materiel-horeca.com/guide/wp-content/uploads/2020/12/restaurant-bar-1024x683.jpeg");
+    height: 100vh;
+    background-size: cover;
+    padding: 0;
+    margin: 0;
+    background-repeat: no-repeat;
+    width: 100vw;
+}
+.menu{
+    position: absolute;
+    bottom: 90px;
+    left: 120px;
+    display: flex;
+    text-decoration: none;
+    color: rgb(251, 240, 255);
+    text-shadow: 3px 3px 8px rgb(27, 139, 154);
+}
+.ul{
+    padding: 40px;
+    margin: 20px;
+}
+.pad{
+    padding: 20px;
+    text-decoration: none;
+
+}
+.m{
+    color: aliceblue;
+    text-shadow: 2px 2px 5px yellow;
+    position: absolute;
+    top: 40%;
+    left: 20%;
+    border-radius: 10px;
+    border-color: aliceblue;
+    box-shadow: 3px 3px 8px rgb(40, 127, 158);
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+.button{
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 25px;
+}
+.button:hover{
+    font-size: 35px;
+    font-style:italic;
+    color: aliceblue;
+    text-shadow: 3px 3px 7px rgb(139, 212, 239);
+    border-radius: 10px;
+    border-color: aliceblue;
+    box-shadow: 2px 2px 5px rgb(87, 148, 209);
+}
+.img{
+    height: 450px;
+    width: 600px;
+    position: absolute;
+    top: 40%;
+    right: 0;
+    border-width: 0;
+    border-radius: 60%;
+    box-shadow: 5px 4px 40px orange;
+    opacity: 0.8;
+}

@@ -1,0 +1,47 @@
+.bg{
+    background-image: url("https://img.freepik.com/premium-photo/d-food-delivery-boy-isolated-white-background_198067-259143.jpg?w=2000");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 0;
+    margin: 0;
+}
+.para {
+    color: black;
+    text-shadow: 4px 4px 13px rgb(1, 102, 1),2px 2px 5px rgb(96, 216, 96);
+    font-size: 40px;
+    position: absolute;
+    top: 24%;
+    left: 58%;
+    font-style: italic;
+    white-space: nowrap;
+    overflow: hidden;
+    width: 0; 
+    display: inline-block;
+    animation: typing 4s steps(17) forwards, blink 0.4s step-end infinite;
+}
+
+@keyframes typing {
+    from { width: 0; }
+    to { width: 17ch; }
+}
+
+@keyframes blink {
+    50% { border-color: transparent; }
+}
+
+.posi{
+    position: absolute;
+    right: 10%;
+    bottom: 5%;
+    color:rgb(2, 7, 10);
+    text-decoration: none;
+    text-shadow: 2px 2px 6px rgb(54, 141, 173);
+    box-shadow: 5px 5px 15px rgb(148, 12, 94) ;
+    border-radius: 10px;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
