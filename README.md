@@ -19,8 +19,7 @@ A responsive web application that allows users to explore menu items and place f
 ## 🚀 Getting Started
 To run this project locally:
 
-1. Clone the repository:  https://github.com/Mbajibabu/Restaurant-food-order-portal/tree/main
-2. Open `welcome.html` in your browser.
+1. Clone the repository:  https://Mbajibabu.github.io/Restaurant-food-order-portal/welcome.html
 
 ## ✨ Author
 
